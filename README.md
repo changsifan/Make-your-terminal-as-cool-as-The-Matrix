@@ -8,6 +8,10 @@ Dark background, phosphor-green text, neon cursor.
 
 ![Matrix Terminal Theme in action](./preview.png)
 
+A full session with the theme applied:
+
+![Matrix theme in a working session](./preview-2.png)
+
 ```text
 $ whoami
 neo
