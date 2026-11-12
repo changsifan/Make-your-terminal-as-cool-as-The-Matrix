@@ -6,6 +6,8 @@ Dark background, phosphor-green text, neon cursor.
 
 ## Preview
 
+![Matrix Terminal Theme in action](./preview.png)
+
 ```text
 $ whoami
 neo
